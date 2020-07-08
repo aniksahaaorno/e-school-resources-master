@@ -1,0 +1,50 @@
+.header{
+
+    background-color: #F0FFF0;
+}
+.banner{
+
+    margin-top: 100px;
+}
+.heighlight-fulltext{
+
+    color: #FD511A;
+}
+.heighlight-schedeul{
+
+    color:#21B573 ;
+}
+.heading{
+
+    font-size: 50px;
+}
+
+.get-started-btn{
+
+    background-color: #21B573;
+    color: #D8D8D8;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    
+}
+.Singin{
+
+    background-color: #21B573;
+
+    border-radius: 50px;
+    border: none;
+    padding: 7px 10px;
+   
+
+  
+}
+.singin-color{
+
+    color: #D8D8D8;
+}
+.blog{
+
+    margin-top: 100px;
+}
