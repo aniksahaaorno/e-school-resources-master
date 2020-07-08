@@ -35,7 +35,8 @@
 
     border-radius: 50px;
     border: none;
-    padding: 7px 10px;
+    padding: 2px 10px;
+    margin-top: 5px;
    
 
   
@@ -47,4 +48,60 @@
 .blog{
 
     margin-top: 100px;
+    background-color: #F8FFFB;
+}
+.boxshadow{
+
+    box-shadow: 5px 5px 5px 5px lightgray;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.Cources{
+
+    margin-top: 100px;
+}
+.heading-cources{
+
+    margin-bottom: 50px;
+    text-align: center;
+}
+.paddingreduse{
+
+    padding: 5px 20px;
+}
+.Testimonial{
+
+    margin-top: 100px;
+   
+}
+.heading-testimonial{
+
+    margin-bottom: 50px;
+    text-align: center;
+}
+.list-style{
+
+    list-style-type: none;
+}
+.center-heading{
+
+    text-align: center;
+}
+.footer{
+
+    background-color: #282531;
+    margin-top: 100px;
+   
+}
+.color-text{
+
+    color: #D8D8D8;
+}
+.last-text{
+
+    text-align: center;
+}
+.margintop{
+
+    margin-top: 50px;
 }
