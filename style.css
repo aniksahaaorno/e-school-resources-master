@@ -50,11 +50,17 @@
     margin-top: 100px;
     background-color: #F8FFFB;
 }
+
 .boxshadow{
 
     box-shadow: 5px 5px 5px 5px lightgray;
     padding: 20px;
     background-color: #FFFFFF;
+}
+.imgcenter{
+
+    display: block;
+    margin-left: 50px;
 }
 .Cources{
 
@@ -64,6 +70,10 @@
 
     margin-bottom: 50px;
     text-align: center;
+}
+.articlecenter{
+
+    margin: 0 auto;
 }
 .paddingreduse{
 
